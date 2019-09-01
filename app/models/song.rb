@@ -13,4 +13,3 @@ class Song < ActiveRecord::Base
       drake = Artist.create(name: "Drake")
   end
 end
-drake = Artist.create(name: "Drake")
